@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Quicksand&family=Roboto&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background:white;
+    font-family: "Quicksand", sans-serif;
+  }
+  
+  .container{
+    background: #e7e4e4;;
+    width: 800px;
+    padding: 50px;
+    margin: 20px auto;
+    border-radius: 10px;
+  }
+
+  .photo{
+    width: 220px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px #F3C10F;
+    opacity: 0.8px;
+  }
+
+.general{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.label{
+    margin-left: 30px;
+    font-size:larger;
+}
+
+
+.label p{
+   font-size: larger; 
+   text-decoration: underline #F3C10F;
+}
+
+.profile{
+  margin-bottom: 25px;
+}
+
+.profile h2 {
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+.profile p{
+  font-size: large;
+}
+
+.contact h2{
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+
+.contact td{
+  font-size: large;
+}
+.table{
+  width: 80%;
+}
+
+.table td{
+  padding-bottom: 5px;
+}
+.education h2{
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+.education p{
+  font-size: large;
+  color: black;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #F3C10F;
+}
+.knowledge h2{
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+
+.table1{
+  width: 50%;
+}
+.table1 td{
+  padding-bottom: 16px;
+}
+.knowledge td{
+  font-size: large;
+}
+.riv{
+  color:grey;
+  font-weight: bold;
+}
+.lang h2{
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+.list li{
+  font-size: large;
+}
+.skill h2{
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+.skill p{
+  font-size: large;
+  text-decoration: underline overline #F3C10F; ;
+}
+.creat h2{
+  margin-bottom: 20px;
+  background: #F3C10F;
+  color: black;
+  opacity: 0.8;
+  padding: 11px;
+  border-radius: 7px;
+}
+.creat a{
+  font-size: large;
+}
+
+
+
+
+
+
+
+
